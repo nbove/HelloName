@@ -8,7 +8,7 @@ namespace HelloName
 		{
 			// Pause to display Hello World!
 			String Name = "Nick Bove";
-			Console.WriteLine(Name);
+			Console.WriteLine("Hello" + Name + "!");
 			Console.WriteLine("Hello World!");
 			Console.ReadKey(true);
 		}
